@@ -1,3 +1,162 @@
+# 👋 Hey, I'm Dev!
+
+### 🤖 AI/ML Developer • Backend Engineer • Hackathon Builder • Problem Solver
+
+I'm a developer who enjoys turning **ideas into working products** — from AI/ML systems and data-driven applications to backend APIs, IoT solutions, and hackathon prototypes.
+
+I like working at the intersection of **Artificial Intelligence, Software Engineering, Data, and Real-World Problem Solving**.
+
+---
+
+## 🚀 What I'm Currently Working On
+
+* 🧠 **AI/ML & Data Science** — building predictive models, NLP pipelines, feature engineering workflows, and data-driven systems.
+* ⚡ **Renewable Energy & Hydrogen** — developing intelligent systems for renewable-energy analysis, hydrogen production prediction, and infrastructure recommendations.
+* 🏎️ **Formula 1 Analytics** — exploring telemetry and racing data to understand driver behaviour, performance, and driving-style adaptability.
+* 🛠️ **Hackathons & SIH** — building practical prototypes under real-world constraints.
+* 🌐 **Full-Stack & Backend Systems** — developing APIs, databases, dashboards, and interactive applications.
+* 📊 **Competitive Programming** — continuously improving algorithms, data structures, SQL, and problem-solving.
+
+---
+
+## 🧰 Tech Stack
+
+### Languages
+
+`Python` `C++` `C` `JavaScript` `TypeScript` `SQL`
+
+### AI / ML / Data
+
+`PyTorch` `Scikit-learn` `Pandas` `NumPy` `NLP` `Feature Engineering` `Data Analysis`
+
+### Backend
+
+`Python` `FastAPI` `REST APIs` `Supabase` `PostgreSQL`
+
+### Frontend
+
+`React` `TypeScript` `Vite` `Leaflet.js`
+
+### Tools & Platforms
+
+`Git` `GitHub` `Google Colab` `Linux` `VS Code`
+
+### IoT / Hardware
+
+`ESP32` `PZEM-004T` `BH1750` `INA219` `OLED` `Sensors`
+
+---
+
+## 💻 Featured Areas
+
+### 🌱 Renewable Energy Intelligence
+
+Working on systems that combine **renewable-energy data, geospatial information, machine learning, and hydrogen infrastructure** to support smarter energy decisions.
+
+### 🏎️ Formula 1 Data Science
+
+Using publicly available F1 data and telemetry to investigate questions around:
+
+* Driver performance
+* Driving styles
+* Cross-circuit adaptability
+* Telemetry patterns
+* Lap-time behaviour
+* Data-driven motorsport analytics
+
+### 🤖 AI & NLP
+
+Building practical NLP and ML pipelines involving:
+
+* Text preprocessing
+* Tokenization
+* Stemming
+* POS tagging
+* Feature extraction
+* Classification and prediction
+
+### 🏆 Hackathons
+
+I enjoy taking an idea from:
+
+**Problem Statement → Research → Architecture → Prototype → Working Product**
+
+and building something that can actually be demonstrated.
+
+---
+
+## 🧩 Projects
+
+Some of the areas I've built or experimented with:
+
+**🔋 HydroMap / InfraHydrogen**
+An intelligent renewable-energy and hydrogen infrastructure platform involving prediction, geospatial mapping, carbon savings, and infrastructure recommendations.
+
+**⚡ Renewable Energy Monitoring System**
+An IoT-based monitoring concept for solar/wind microgrids with real-time generation, storage, consumption, and efficiency monitoring.
+
+**🏎️ F1 Analytics**
+Data-driven analysis of Formula 1 telemetry and driver performance using Python and machine learning.
+
+**🧠 NLP & Machine Learning Experiments**
+Practical implementations covering preprocessing, tokenization, stemming, POS tagging, feature extraction, and ML workflows.
+
+---
+
+## 📈 My Development Philosophy
+
+> **Learn → Build → Break → Debug → Improve → Repeat.**
+
+I don't want to just learn technologies theoretically.
+
+I prefer learning by **building**, experimenting with unfamiliar tools, debugging real problems, and turning concepts into working systems.
+
+---
+
+## 🎯 Currently Learning
+
+* Advanced Machine Learning
+* Deep Learning
+* AI Agents & LLM applications
+* Backend architecture
+* Data Engineering
+* System Design
+* Advanced Algorithms & Data Structures
+* Research-oriented Data Science
+
+---
+
+## 🏆 Hackathons & Competitions
+
+I actively participate in:
+
+* 🏆 Hackathons
+* 🇮🇳 Smart India Hackathon
+* 🤖 AI/ML competitions
+* 💻 Coding & DSA challenges
+* 📊 Data Science projects
+
+Currently preparing for more **real-world hackathons and engineering challenges**.
+
+---
+
+## 🤝 Let's Build Something
+
+I'm interested in collaborating on projects involving:
+
+**AI • Machine Learning • Data Science • Backend Engineering • Renewable Energy • IoT • F1 Analytics • Developer Tools**
+
+If you're building something interesting, feel free to connect!
+
+---
+
+### ⚡ Fun Fact
+
+I can go from discussing **machine-learning models** to **SQL queries**, then jump into **FastAPI**, **Leaflet maps**, **IoT sensors**, or **Formula 1 telemetry** without changing tabs. 😄
+
+---
+
+⭐ *Building things, breaking things, and learning something new every day.*
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/devpatel_94) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dev-patel-357799287) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:devvpatel1311@gmail.com) 
